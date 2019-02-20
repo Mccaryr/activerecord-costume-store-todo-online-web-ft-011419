@@ -7,5 +7,6 @@ class Costume < ActiveRecord::Base
       t.integer :size
       t.timestamps
     end
+  end
 end
 # It should inherit from ActiveRecord::Base
